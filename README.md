@@ -13,3 +13,5 @@ This project Consists of 3 stages:
 3)Choice of Transaction
 
 Printing a proper mini-statement of the balance and display it
+
+Check the Comments in implemented code for each stage details
