@@ -1,6 +1,7 @@
 # Bank-Transaction-Gateway
+Simple Simulation of Bank Transaction Gateway in Python
 
-Database included these columns:
+Database used include these columns:
 Sr No., User Id, A/C No., Full Name, User Email, A/C Balance, A/C Status
 
 This project Consists of 3 stages:
